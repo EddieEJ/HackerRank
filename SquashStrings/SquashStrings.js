@@ -22,7 +22,6 @@ for (let i = 0; i < charArr.length; i++) {
       
       while(i+1 <= charArr.length-1 && tempChar==charArr[i+1]) {
         i++;
-
       }
     } else {
       stack.push([charArr[i], indexSoFar+1]);
