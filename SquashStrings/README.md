@@ -1,6 +1,6 @@
 # Candy Crush-like Strings 
 
-Similarly to the [Candy Crush gameplay concept](https://en.wikipedia.org/wiki/Candy_Crush_Saga#Gameplay), if 3 or more matching characters are found in a string (repeated one after the other), they are "squashed" and a new string is produced. This is then repeated until there are no more squashes available in the provided string.
+Similarly to the [Candy Crush gameplay concept](https://en.wikipedia.org/wiki/Candy_Crush_Saga#Gameplay), if 3 or more matching characters are found in a string (repeated one after the other), they are "squashed" and a new string is produced. This is then repeated until there are no more squashes available in the provided string. The output would be the last modified version of the input.
 
 *Example 1:*
 
